@@ -119,10 +119,6 @@
         "descripcion": "BAYONETA ANGULAR PARA SOPORTE DE HILO DE GUARDA DE 62PULG",
         "unidad": "UNI"
     },
-    "CA": {
-        "descripcion": "CABLE DE ACERO GALVANIZADO 5/16",
-        "unidad": "PIE"
-    },
     "CA1": {
         "descripcion": "CABLE ACERADO DE 1/4",
         "unidad": "PIE"
@@ -133,6 +129,10 @@
     },
     "CA3": {
         "descripcion": "CABLE ACERADO DE 3/8",
+        "unidad": "PIE"
+    },
+    "CA4": {
+        "descripcion": "CABLE DE ACERO GALVANIZADO 5/16, VER TABLA",
         "unidad": "PIE"
     },
     "CAF1": {
@@ -419,8 +419,16 @@
         "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP., 13.8 KV, APERTURA BAJO CARGA",
         "unidad": "UNI"
     },
+    "CRA12": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 200 AMP., 13.8 KV, APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
     "CRA2": {
         "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP., 34.5KV., APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA22": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 200 AMP., 34.5KV., APERTURA BAJO CARGA",
         "unidad": "UNI"
     },
     "CRA3": {
@@ -465,6 +473,10 @@
     },
     "ET4": {
         "descripcion": "ESTRIBO DE COMPRESION PARA CONEXIÓN LINEA VIVA (3/0 - 477)",
+        "unidad": "UNI"
+    },
+    "F": {
+        "descripcion": "FUSIBLE X Amp",
         "unidad": "UNI"
     },
     "F1": {
@@ -767,6 +779,10 @@
         "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 60",
         "unidad": "UNI"
     },
+    "PM301": {
+        "descripcion": "POSTE DE MADERA CURADA DE 30 CLASE 6",
+        "unidad": "UNI"
+    },
     "PM30": {
         "descripcion": "POSTE DE MADERA CURADA 30",
         "unidad": "UNI"
@@ -945,6 +961,10 @@
     },
     "TGL2": {
         "descripcion": "TUBO DE HIERRO GALVANIZADO DE 4 DIA. X 20",
+        "unidad": "UNI"
+    },
+    "TGL22": {
+        "descripcion": "TUBO DE HIERRO GALVANIZADO DE 4PULG",
         "unidad": "UNI"
     },
     "TO1": {

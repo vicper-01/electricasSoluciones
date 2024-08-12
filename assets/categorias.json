@@ -232,12 +232,14 @@
     "CS3"
   ],
   "Retenidas": [
-    "R1",
-    "R2",
-    "R3",
+    "R-1",
+    "R-2",
+    "R-3",
     "R-3C",
     "R-3V",
     "R-4",
+    "R-5",
+    "R-5T",
     "R-6",
     "RH-2",
     "RH-6",
@@ -245,16 +247,18 @@
     "RTH-6"
   ],
   "Transformadores": [
-    "TS-5-37.5",
-    "TS-50-75",
-    "TD-5-37.5",
-    "TD-50-75",
-    "TT-5-37.5",
-    "TT-50-75"
+    "TS-5",
+    "TS-10",
+    "TS-15",
+    "TS-25",
+    "TS-37.5",
+    "TS-50",
+    "TS-75",
+    "TS-100"
   ],
 "Postes": [
-    "Concreto 30",
-    "Concreto 35",
+"Concreto 30",
+"Concreto 35",
 "Concreto 40",
 "Concreto 45",
 "Concreto 50",
