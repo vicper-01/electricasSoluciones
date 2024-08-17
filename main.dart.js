@@ -32328,58 +32328,60 @@ break
 case 6:case 1:return B.S(q,r)
 case 2:return B.R(o,r)}})
 return B.T($async$uB,r)},
-b0P(a5,a6,a7,a8,a9,b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2="cantidad",a3=B.o(t.N,t.S),a4=B.a(["AS","ARE","VAP(2-3)","VAP(6-8)","GT","CA","CCPN","CCPF","CCSF","CCSN","CCPA","ET"],t.s)
+b0P(a7,a8,a9,b0,b1,b2,b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4="cantidad",a5=B.o(t.N,t.S),a6=B.a(["AS","ARE","VAP(2-3)","VAP(6-8)","GT","CA","CCPN","CCPF","CCSF","CCSN","CCPA","ET"],t.s)
 B.dG("Iniciando c\xe1lculo de materiales...")
-for(s=a5.length,r=t.j,q=0;q<a5.length;a5.length===s||(0,B.z)(a5),++q){p=a5[q]
+for(s=a7.length,r=t.j,q=0;q<a7.length;a7.length===s||(0,B.z)(a7),++q){p=a7[q]
 o=p.h(0,"id")
-n=p.h(0,a2)
+n=p.h(0,a4)
 m=p.h(0,"alturaPoste")
-l=B.f(m)
-B.fn("Procesando estructura: "+o+", Cantidad: "+B.f(n)+", Altura: "+l)
-if(a7.aa(o)){k=a7.h(0,o)
-B.fn("Materiales asociados a estructura "+o+": "+B.f(k))
-if(r.b(k))B.fn("materialesEstructura es una lista")
+l=p.h(0,"tipoPoste")
+k=B.f(m)
+B.fn("Procesando estructura: "+o+", Cantidad: "+B.f(n)+", Altura: "+k)
+if(a9.aa(o)){j=a9.h(0,o)
+B.fn("Materiales asociados a estructura "+o+": "+B.f(j))
+if(r.b(j))B.fn("materialesEstructura es una lista")
 else B.fn("materialesEstructura NO es una lista")
-if(k!=null)for(j=J.aE(k),i="Altura "+l+" no encontrada en ",l="Cantidad ajustada para material CA en "+o+" con altura "+l+": ";j.t();){h=j.gI()
-if(!(a9&&J.c(J.h(h,"bv"),!0)))g=b0&&J.c(J.h(h,"av"),!0)
-else g=!0
-if(g){g=J.a_(h)
-f=g.h(h,"id")
-B.fn(f)
-e=J.aE9(g.h(h,a2),n)
-B.fn("Procesando material: "+f+", Cantidad: "+B.f(e))
-if(f==="CA"||f==="TLG22"){switch(o){case"R-1":d="Altura1"
+if(j!=null)for(i=J.aE(j),h=l==="Concreto",g="Altura "+k+" no encontrada en ",k="Cantidad ajustada para material CA en "+o+" con altura "+k+": ";i.t();){f=i.gI()
+if(!(b1&&J.c(J.h(f,"bv"),!0)))e=b2&&J.c(J.h(f,"av"),!0)
+else e=!0
+if(e){e=J.a_(f)
+d=e.h(f,"id")
+B.fn(d)
+c=J.aE9(e.h(f,a4),n)
+B.fn("Procesando material: "+d+", Cantidad: "+B.f(c))
+if(d==="TG"&&h)d="PM10"
+if(d==="CA"){switch(o){case"R-1":b="Altura1"
 break
-case"R-2":d="Altura2"
+case"R-2":b="Altura2"
 break
-case"R-3":d="Altura3"
+case"R-3":b="Altura3"
 break
-case"R-4":d="Altura1"
+case"R-4":b="Altura1"
 break
-case"R-5T":d="Altura4"
+case"R-5T":b="Altura4"
 break
-case"RH-2":d="Altura5"
+case"RH-2":b="Altura5"
 break
-case"RH-6":d="Altura6"
+case"RH-6":b="Altura6"
 break
-case"RTH-2":d="Altura7"
+case"RTH-2":b="Altura7"
 break
-default:d=null}g=B.f(d)
-B.fn("Clave de altura seleccionada: "+g)
-c=d!=null
-if(c&&a8.aa(d)){b=a8.h(0,d)
-B.fn("Datos de altura obtenidos: "+b.k(0))
-if(b.aa(m)){e=B.io(b.h(0,m),null)
-B.fn(l+e)}else B.fn(i+g)}else if(c)B.fn("Clave "+d+" no encontrada en el JSON de especial.")}if(A.n.p(a4,f)){a=a8.h(0,f)
-B.fn("Procesando material especial: "+f+", Data especial: "+B.f(a))
-if(a!=null){a0=J.aPt(a.gbs(),new B.ayh(a))
-a1=b1.h(0,a0)
-if(a1!=null){f=J.h(J.h(a8.h(0,f),a0),a1)
-B.fn("Material especial procesado: "+f)}else B.fn("Valor "+B.f(a1)+" no encontrado en especial.json para la clave "+a0)}}if(a3.aa(f)){g=a3.h(0,f)
-g.toString
-a3.m(0,f,g+e)}else a3.m(0,f,e)
-B.fn("Material agregado: "+f+", Cantidad: "+B.f(a3.h(0,f)))}}}else B.fn("Estructura "+o+" no tiene materiales asociados.")}B.dG("C\xe1lculo de materiales completado: "+a3.k(0))
-return a3},
+default:b=null}e=B.f(b)
+B.fn("Clave de altura seleccionada: "+e)
+a=b!=null
+if(a&&b0.aa(b)){a0=b0.h(0,b)
+B.fn("Datos de altura obtenidos: "+a0.k(0))
+if(a0.aa(m)){c=B.io(a0.h(0,m),null)
+B.fn(k+c)}else B.fn(g+e)}else if(a)B.fn("Clave "+b+" no encontrada en el JSON de especial.")}if(A.n.p(a6,d)){a1=b0.h(0,d)
+B.fn("Procesando material especial: "+d+", Data especial: "+B.f(a1))
+if(a1!=null){a2=J.aPt(a1.gbs(),new B.ayh(a1))
+a3=b3.h(0,a2)
+if(a3!=null){d=J.h(J.h(b0.h(0,d),a2),a3)
+B.fn("Material especial procesado: "+d)}else B.fn("Valor "+B.f(a3)+" no encontrado en especial.json para la clave "+a2)}}if(a5.aa(d)){e=a5.h(0,d)
+e.toString
+a5.m(0,d,e+c)}else a5.m(0,d,c)
+B.fn("Material agregado: "+d+", Cantidad: "+B.f(a5.h(0,d)))}}}else B.fn("Estructura "+o+" no tiene materiales asociados.")}B.dG("C\xe1lculo de materiales completado: "+a5.k(0))
+return a5},
 aDd(a,b){var s,r,q,p="descripcion"
 try{if(b.aa(a)&&b.h(0,a).aa(p)){r=J.h(b.h(0,a),p)
 return r}else return"No disponible"}catch(q){s=B.am(q)
@@ -107025,11 +107027,11 @@ s=B.a5W(A.aWx,q,new B.aqY(m),s,r)
 q=m.r
 p=m.y
 o=B.a1(p).i("a6<1,eS<x>>")
-q=B.a5W(A.aWG,B.J(new B.a6(p,new B.aqZ(),o),!0,o.i("ay.E")),new B.ar_(m),q,r)
+q=B.a5W(A.aWF,B.J(new B.a6(p,new B.aqZ(),o),!0,o.i("ay.E")),new B.ar_(m),q,r)
 o=m.w
 p=m.z
 n=B.a1(p).i("a6<1,eS<x>>")
-r=B.a([l,A.ck,s,A.ck,q,A.ck,B.a5W(A.aWF,B.J(new B.a6(p,new B.ar0(),n),!0,n.i("ay.E")),new B.ar1(m),o,r),A.ck,B.Bg(A.aWj,m.galT()),A.ck],t.D)
+r=B.a([l,A.ck,s,A.ck,q,A.ck,B.a5W(A.aWE,B.J(new B.a6(p,new B.ar0(),n),!0,n.i("ay.E")),new B.ar1(m),o,r),A.ck,B.Bg(A.aWj,m.galT()),A.ck],t.D)
 l=m.x
 if(l.length!==0)r.push(B.lF(B.akb(B.azX(A.aFB,new B.rf(l,B.a1(l).i("rf<1>")).gfk().el(0,new B.ar2(m),t.VZ).eE(0)),A.c0)))
 r.push(A.ck)
@@ -107187,8 +107189,8 @@ s=B.jz(p,!0)
 q=B.O(p).aJ.z
 if(q==null)q=A.aw
 s.lZ(B.aR8(null,q,!0,null,new B.asb(),p,null,r,A.LG,!0,t.z))},
-S(a){var s=this,r=null,q=B.a2y(r,A.aWm),p=s.Fj("Solicita",new B.asn(s)),o=s.Fj("Estimador",new B.aso(s)),n=s.Fj("Lugar",new B.asp(s)),m=B.de("Seleccionar voltaje:",r,r,r,A.aU5,r,r),l=t.D,k=B.mq(B.a([s.RI("13.8KV"),A.aPc,s.RI("34.5KV")],l),A.bS,A.b8,A.bW,r),j=B.mq(B.a([B.lF(s.r5("Calibre Fase Primario",s.w,s.at,new B.asq(s))),A.lZ,B.lF(s.r5("Calibre Fase Secundario",s.y,s.ch,new B.asr(s))),A.lZ,B.lF(s.r5("Calibre Retenida",s.Q,s.cx,new B.ass(s)))],l),A.bS,A.b8,A.bW,r),i=B.mq(B.a([B.lF(s.r5("Calibre Neutro Primario",s.x,s.ay,new B.ast(s))),A.lZ,B.lF(s.r5("Calibre Neutro Secundario",s.z,s.CW,new B.asu(s))),A.lZ,B.lF(s.r5("Acero Secundario",s.as,s.ax,new B.asv(s)))],l),A.bS,A.b8,A.bW,r)
-return B.aiR(q,B.tD(A.dU,B.a([new B.dd(A.iT,B.akb(B.lx(B.a([p,o,n,A.ck,m,k,A.ck,j,A.ck,i,A.ck,B.Bg(A.aWA,s.r.length!==0?new B.asw(s,a):r)],l),A.eN,A.b8,A.bW),A.bF),r),new B.jc(A.fP,r,r,new B.dd(A.e4,B.qI(r,A.aWl,A.bm,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gajO(),r,r,r),r),r)],l),A.aX,A.dN,r))},
+S(a){var s=this,r=null,q=B.a2y(r,A.aWl),p=s.Fj("Solicita",new B.asn(s)),o=s.Fj("Estimador",new B.aso(s)),n=s.Fj("Lugar",new B.asp(s)),m=B.de("Seleccionar voltaje:",r,r,r,A.aU5,r,r),l=t.D,k=B.mq(B.a([s.RI("13.8KV"),A.aPc,s.RI("34.5KV")],l),A.bS,A.b8,A.bW,r),j=B.mq(B.a([B.lF(s.r5("Calibre Fase Primario",s.w,s.at,new B.asq(s))),A.lZ,B.lF(s.r5("Calibre Fase Secundario",s.y,s.ch,new B.asr(s))),A.lZ,B.lF(s.r5("Calibre Retenida",s.Q,s.cx,new B.ass(s)))],l),A.bS,A.b8,A.bW,r),i=B.mq(B.a([B.lF(s.r5("Calibre Neutro Primario",s.x,s.ay,new B.ast(s))),A.lZ,B.lF(s.r5("Calibre Neutro Secundario",s.z,s.CW,new B.asu(s))),A.lZ,B.lF(s.r5("Acero Secundario",s.as,s.ax,new B.asv(s)))],l),A.bS,A.b8,A.bW,r)
+return B.aiR(q,B.tD(A.dU,B.a([new B.dd(A.iT,B.akb(B.lx(B.a([p,o,n,A.ck,m,k,A.ck,j,A.ck,i,A.ck,B.Bg(A.aWA,s.r.length!==0?new B.asw(s,a):r)],l),A.eN,A.b8,A.bW),A.bF),r),new B.jc(A.fP,r,r,new B.dd(A.e4,B.qI(r,A.aWp,A.bm,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gajO(),r,r,r),r),r)],l),A.aX,A.dN,r))},
 Fj(a,b){var s=null
 return B.lx(B.a([B.aBI(!0,A.eg,!1,s,!0,A.aX,s,B.aMl(),s,s,s,s,s,s,2,B.aaf(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,a,s,s,s,s,s,s,s,s,s,s,s,s,s),A.bm,!0,s,!0,s,!1,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,b,s,s,s,!1,s,!1,s,!0,s,A.nP,s,s,A.dY,A.da,s,s,s,s,s,s,s,A.bX,s,A.m3,s,s,s,s),A.ck],t.D),A.eN,A.b8,A.bW)},
 RI(a){var s=null
@@ -107199,7 +107201,7 @@ B.asc.prototype={
 $0(){this.a.r=this.b},
 $S:0}
 B.asb.prototype={
-$1(a){return new B.uL(A.aWE,A.aP2,B.a([B.aBG(A.aWD,new B.asa(a),null)],t.D),null)},
+$1(a){return new B.uL(A.aWG,A.aP2,B.a([B.aBG(A.aWD,new B.asa(a),null)],t.D),null)},
 $S:559}
 B.asa.prototype={
 $0(){B.jz(this.a,!1).fs()},
@@ -107331,7 +107333,7 @@ B.dG("StackTrace: "+B.f(i))}return B.S(null,r)}})
 return B.T($async$J8,r)},
 S(a){var s=this,r=null
 B.dG("Building MaterialesScreen...")
-return B.aiR(B.a2y(B.a([B.C6(r,A.Td,new B.atL(s,a),r,r),B.C6(r,A.Te,new B.atM(s,a),r,r)],t.D),A.aWo),new B.vP(s.gKv(),new B.atN(s),r,t.rv))},
+return B.aiR(B.a2y(B.a([B.C6(r,A.Td,new B.atL(s,a),r,r),B.C6(r,A.Te,new B.atM(s,a),r,r)],t.D),A.aWn),new B.vP(s.gKv(),new B.atN(s),r,t.rv))},
 amp(a){var s
 B.dG("Construyendo tabla de materiales con los siguientes datos:")
 s=this.d
@@ -110289,8 +110291,8 @@ A.PL=new B.a0u()
 A.e1=new B.ax9()
 A.PM=new B.a3y(0,"pixel")
 A.PQ=new B.q0(null,null,null,null,null,null,null)
-A.aWp=new B.cn("Error al cargar los materiales",null,null,null,null,null,null,null,null)
-A.PR=new B.ki(A.az,null,null,A.aWp,null)
+A.aWo=new B.cn("Error al cargar los materiales",null,null,null,null,null,null,null,null)
+A.PR=new B.ki(A.az,null,null,A.aWo,null)
 A.aWC=new B.cn("No se encontraron datos",null,null,null,null,null,null,null,null)
 A.PS=new B.ki(A.az,null,null,A.aWC,null)
 A.b0l=new B.anS(0,"material")
@@ -111374,8 +111376,8 @@ A.aFv=B.a(s([A.aWT,A.Ly,A.ay,A.id]),B.a9("p<tV>"))
 A.l_=B.a(s([0,0,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13]),t.t)
 A.aFz=B.a(s([0,1,2,3,4,6,8,12,16,24,32,48,64,96,128,192,256,384,512,768,1024,1536,2048,3072,4096,6144,8192,12288,16384,24576]),t.t)
 A.aFy=B.a(s([5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5]),t.t)
-A.aWn=new B.cn("ID",null,null,null,null,null,null,null,null)
-A.Rq=new B.ix(A.aWn,!1)
+A.aWm=new B.cn("ID",null,null,null,null,null,null,null,null)
+A.Rq=new B.ix(A.aWm,!1)
 A.aWy=new B.cn("Tipo de Poste",null,null,null,null,null,null,null,null)
 A.Rr=new B.ix(A.aWy,!1)
 A.aWs=new B.cn("Altura del Poste",null,null,null,null,null,null,null,null)
@@ -116306,7 +116308,7 @@ A.aP0=new B.ah(A.hS,!1,!0,!1,!1,A.c8)
 A.aOZ=new B.ah(A.el,!0,!0,!1,!1,A.c8)
 A.aOY=new B.ah(A.em,!0,!0,!1,!1,A.c8)
 A.aOX=new B.ah(A.en,!0,!0,!1,!1,A.c8)
-A.aWw=new B.cn('Autor: Ing. Victor Perdomo, 2024.\n\nSe concede permiso para usar, copiar, modificar y distribuir este software y sus bases de datos con las siguientes condiciones:\n\n1. Atribuci\xf3n: Debes dar cr\xe9dito al autor y mencionar si realizaste cambios.\n2. CompartirIgual: Si modificas este software, debes distribuirlo bajo la misma licencia.\n3. Sin Garant\xedas: Este software se proporciona "tal cual", sin garant\xedas de ning\xfan tipo.\n\nhttps://creativecommons.org/licenses/by-sa/4.0/',null,null,null,null,null,null,null,null)
+A.aWw=new B.cn("Autor: Ing. Victor Perdomo.\n\nVersion: 7.0.1\n\nContacto: victor.e.perdomo@gmail.com\n\n\n",null,null,null,null,null,null,null,null)
 A.aP2=new B.F_(A.bF,A.aWw,null)
 A.qx=new B.I(1/0,1/0)
 A.aP3=new B.I(1e5,1e5)
@@ -116836,10 +116838,10 @@ A.aWh=new B.dD(A.aUI,A.aSy,A.aUU,A.aRL,A.aVF,A.aSi,A.aRt,A.aSj,A.aSF,A.aTl,A.aUe
 A.Ls=new B.cn("Editar Materiales",null,null,null,null,null,null,null,null)
 A.aWj=new B.cn("A\xf1adir",null,null,null,null,null,null,null,null)
 A.aWk=new B.cn("Ir a Materiales",null,null,null,null,null,null,null,null)
+A.aWl=new B.cn("Electricas Soluciones",null,null,null,null,null,null,null,null)
+A.aWn=new B.cn("Materiales",null,null,null,null,null,null,null,null)
 A.aVc=new B.n(!0,A.pw,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,A.m4,null,null,null,null,null,null,null,null)
-A.aWl=new B.cn("Licencia",null,A.aVc,null,null,null,null,null,null)
-A.aWm=new B.cn("Electricas Soluciones",null,null,null,null,null,null,null,null)
-A.aWo=new B.cn("Materiales",null,null,null,null,null,null,null,null)
+A.aWp=new B.cn("Acerca de",null,A.aVc,null,null,null,null,null,null)
 A.aWr=new B.cn("Selecci\xf3n de Estructuras",null,null,null,null,null,null,null,null)
 A.aWt=new B.cn("Guardar",null,null,null,null,null,null,null,null)
 A.aWv=new B.cn("Agregar",null,null,null,null,null,null,null,null)
@@ -116847,9 +116849,9 @@ A.aWx=new B.cn("Estructura",null,null,null,null,null,null,null,null)
 A.aWA=new B.cn("Siguiente",null,null,null,null,null,null,null,null)
 A.aWB=new B.cn("Seleccionar Material",null,null,null,null,null,null,null,null)
 A.aWD=new B.cn("Cerrar",null,null,null,null,null,null,null,null)
-A.aWE=new B.cn("Licencia de Atribuci\xf3n y CompartirIgual",null,null,null,null,null,null,null,null)
-A.aWF=new B.cn("Altura del poste",null,null,null,null,null,null,null,null)
-A.aWG=new B.cn("Tipo de poste",null,null,null,null,null,null,null,null)
+A.aWE=new B.cn("Altura del poste",null,null,null,null,null,null,null,null)
+A.aWF=new B.cn("Tipo de poste",null,null,null,null,null,null,null,null)
+A.aWG=new B.cn("Ich bin",null,null,null,null,null,null,null,null)
 A.aU6=new B.n(!0,null,null,null,null,null,24,A.cm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 A.aWH=new B.cn("Electricas Soluciones",null,A.aU6,A.ib,null,null,null,null,null)
 A.aWI=new B.cn("Tipo de estructura",null,null,null,null,null,null,null,null)
