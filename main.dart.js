@@ -32449,7 +32449,7 @@ h=b
 g=B
 f=B
 s=3
-return B.Z($.nf().hp("assets/logo.png"),$async$zA)
+return B.Z($.nf().hp("logo.png"),$async$zA)
 case 3:k.VN(j.aH8(new i.ayu(h,g.aH6(f.bA(a0.buffer,0,null)),c,l,d)))
 s=4
 return B.Z(q.ck(),$async$zA)
@@ -32475,7 +32475,7 @@ l=b
 k=B
 j=B
 s=3
-return B.Z($.nf().hp("assets/logo.png"),$async$Kv)
+return B.Z($.nf().hp("logo.png"),$async$Kv)
 case 3:o.VN(n.aH8(new m.ayJ(l,k.aH6(j.bA(f.buffer,0,null)),c,p,d)))
 s=4
 return B.Z($.aDD().lS(null,new B.ayK(q),"Document",A.G4,!0,!1),$async$Kv)
