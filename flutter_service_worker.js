@@ -28,7 +28,7 @@ const RESOURCES = {"assets/appainter_theme.json": "facffe857e747be098192eb43a3cf
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "d4274f1b826edbecaa2d497471c7f869",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "298350422af7d837844f120febfe799d",
+"flutter_bootstrap.js": "7d9ba01f25798ad5e4797273d81a1517",
 "icons/Icon-192.png": "e0099b0b7481240d2d09b2688fbe823c",
 "icons/Icon-512.png": "56d9f33bebab0786a3126a58bce45a0f",
 "icons/Icon-maskable-192.png": "e0099b0b7481240d2d09b2688fbe823c",
