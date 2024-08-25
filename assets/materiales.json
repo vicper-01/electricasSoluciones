@@ -64,7 +64,7 @@
         "unidad": "PIE"
     },
     "AR1": {
-        "descripcion": "ARANDELA CUADRADA =11/16\"",
+        "descripcion": "ARANDELA CUADRADA 11/16",
         "unidad": "UNI"
     },
     "B1": {
@@ -84,7 +84,7 @@
         "unidad": "UNI"
     },
     "BML": {
-        "descripcion": "BRAZO METALICO PARA LAMPARA 30\", 96, 120\"",
+        "descripcion": "BRAZO METALICO PARA LAMPARA 30, 96, 120",
         "unidad": "UNI"
     },
     "BPL": {
@@ -132,7 +132,7 @@
         "unidad": "PIE"
     },
     "CA4": {
-        "descripcion": "CABLE DE ACERO GALVANIZADO 5/16, VER TABLA",
+        "descripcion": "CABLE DE ACERO GALVANIZADO 5/16",
         "unidad": "PIE"
     },
     "CAF1": {
@@ -228,7 +228,7 @@
         "unidad": "PIE"
     },
     "CAM": {
-        "descripcion": "CAMISA DE HIERRO GALVANIZADO PARA TUBO Ф 4\"",
+        "descripcion": "CAMISA DE HIERRO GALVANIZADO PARA TUBO 4",
         "unidad": "UNI"
     },
     "CAP": {
@@ -655,6 +655,10 @@
         "descripcion": "PERNO DE MAQUINA 24",
         "unidad": "UNI"
     },
+    "PM10": {
+        "descripcion" : "PERNO DE MAQUINA 1/2 X 12",
+        "unidad" : "UNI"
+    },
     "PO1": {
         "descripcion": "PERNO RECTO DE OJO DE 5/8 X 12",
         "unidad": "UNI"
@@ -704,7 +708,7 @@
         "unidad": "UNI"
     },
     "PCT": {
-        "descripcion": "PERNO PARA CARCAZA DE TRANSFORMADOR (ATERRIZAJE DE CARCAZA DE TRANSFORMADOR)",
+        "descripcion": "PERNO PARA CARCAZA DE TRANSFORMADOR",
         "unidad": "UNI"
     },
     "PLR1": {

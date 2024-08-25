@@ -32556,7 +32556,7 @@ while(true)switch(s){case 0:if($.al==null)B.aJu()
 $.al.toString
 i0=A.cG
 s=2
-return B.Z($.nf().xa("assets/appainter_theme.json"),$async$ayY)
+return B.Z($.nf().xa("appainter_theme.json"),$async$ayY)
 case 2:q=i0.Xg(i2,null)
 if(q instanceof B.ie)p=q
 else if(q!=null){o=J.a_(q)
