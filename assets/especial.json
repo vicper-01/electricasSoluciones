@@ -132,7 +132,7 @@
   }
   ,
   "CCSN": {
-    "calibreNeutroSecundario": {
+    "calibresNeutroSecundario": {
       "#2" : "CC1",
       "1/0": "CC1",
       "3/0": "CC2"

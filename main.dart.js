@@ -32297,13 +32297,13 @@ s=p}while(true)switch(s){case 0:p=4
 B.dG("Cargando datos desde archivos JSON...")
 g=$.nf()
 s=7
-return B.Z(g.xa("assets/materiales.json"),$async$uB)
+return B.Z(g.xa("materiales.json"),$async$uB)
 case 7:n=b
 s=8
-return B.Z(g.xa("assets/estructuraymaterial.json"),$async$uB)
+return B.Z(g.xa("estructuraymaterial.json"),$async$uB)
 case 8:m=b
 s=9
-return B.Z(g.xa("assets/especial.json"),$async$uB)
+return B.Z(g.xa("especial.json"),$async$uB)
 case 9:l=b
 k=A.cG.dk(n)
 j=A.cG.dk(m)
