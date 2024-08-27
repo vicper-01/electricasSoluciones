@@ -1,0 +1,1030 @@
+{
+    "AB1": {
+        "descripcion": "ABRAZADERA DOBLE AJUSTABLE DE 4 1/2”",
+        "unidad": "UNI"
+    },
+    "AB2": {
+        "descripcion": "ABRAZADERA SIMPLE AJUSTABLE DE 6”",
+        "unidad": "UNI"
+    },
+    "AB3": {
+        "descripcion": "ABRAZADERA DOBLE AJUSTABLE DE 6”",
+        "unidad": "UNI"
+    },
+    "AC": {
+        "descripcion": "AISLADOR DE CARRETE ANSI C53-2",
+        "unidad": "UNI"
+    },
+    "AE1": {
+        "descripcion": "AISLADOR DE ESPIGA ANSI C55-4",
+        "unidad": "UNI"
+    },
+    "AE2": {
+        "descripcion": "AISLADOR DE ESPIGA ANSI C56-3",
+        "unidad": "UNI"
+    },
+    "AS1": {
+        "descripcion": "AISLADOR SUSPENSIÓN ANSI C52-4",
+        "unidad": "UNI"
+    },
+    "AS2": {
+        "descripcion": "AISLADOR DE SUSPENSIÓN ANSI C52-9",
+        "unidad": "UNI"
+    },
+    "ARE1": {
+        "descripcion": "AISLADOR DE TENSION 54-1",
+        "unidad": "UNI"
+    },
+    "ARE2": {
+        "descripcion": "AISLADOR DE TENSION 54-2",
+        "unidad": "UNI"
+    },    
+    "ARE3": {
+        "descripcion": "AISLADOR DE TENSION 54-3",
+        "unidad": "UNI"
+    },
+    "AP1": {
+        "descripcion": "AISLADOR DE SUSPENSIÓN DE POLÍMERO",
+        "unidad": "UNI"
+    },
+    "AP4": {
+        "descripcion": "AISLADOR POLÍMERO TIPO POSTE, ANSI C29.18",
+        "unidad": "UNI"
+    },
+    "AP5": {
+        "descripcion": "AISLADOR POLÍMERO TIPO POSTE, ANSI C29.18",
+        "unidad": "UNI"
+    },
+    "AP6": {
+        "descripcion": "AISLADOR POLIMERO TIPO ESPIGA",
+        "unidad": "UNI"
+    },
+    "AA1": {
+        "descripcion": "ALAMBRE DE AMARRE #6",
+        "unidad": "PIE"
+    },
+    "AR1": {
+        "descripcion": "ARANDELA CUADRADA =11/16\"",
+        "unidad": "UNI"
+    },
+    "B1": {
+        "descripcion": "BASTIDOR DE UNA LINEA",
+        "unidad": "UNI"
+    },
+    "B2": {
+        "descripcion": "BASTIDOR DE TRES LINEAS",
+        "unidad": "UNI"
+    },
+    "B3": {
+        "descripcion": "BASTIDOR DE CUATRO LINEAS",
+        "unidad": "UNI"
+    },
+    "BL": {
+        "descripcion": "BALASTROS PARA LAMPARA, S50, S51, S54",
+        "unidad": "UNI"
+    },
+    "BML": {
+        "descripcion": "BRAZO METALICO PARA LAMPARA 30\", 96, 120\"",
+        "unidad": "UNI"
+    },
+    "BPL": {
+        "descripcion": "BOMBILLO PARA LAMPARAS S50, S51, S54",
+        "unidad": "UNI"
+    },
+    "BYCT": {
+        "descripcion": "BASE Y CABEZAL PARA TUBO GALVANIZADO DE 2PULG PARA RETENIDA DE BANCO",
+        "unidad": "UNI"
+    },
+    "BY01": {
+        "descripcion": "BAYONETA RECTA PARA SOPORTE DE HILO DE GUARDA DE 17PULG",
+        "unidad": "UNI"
+    },
+    "BY02": {
+        "descripcion": "BAYONETA RECTA PARA SOPORTE DE HILO DE GUARDA DE 48PULG",
+        "unidad": "UNI"
+    },
+    "BY03": {
+        "descripcion": "BAYONETA RECTA PARA SOPORTE DE HILO DE GUARDA DE 61PULG",
+        "unidad": "UNI"
+    },
+    "BY04": {
+        "descripcion": "BAYONETA ANGULAR PARA SOPORTE DE HILO DE GUARDA DE 48PULG",
+        "unidad": "UNI"
+    },
+    "BY05": {
+        "descripcion": "BAYONETA ANGULAR PARA SOPORTE DE HILO DE GUARDA DE 61PULG",
+        "unidad": "UNI"
+    },
+    "BY06": {
+        "descripcion": "BAYONETA ANGULAR PARA SOPORTE DE HILO DE GUARDA DE 62PULG",
+        "unidad": "UNI"
+    },
+    "CA1": {
+        "descripcion": "CABLE ACERADO DE 1/4",
+        "unidad": "PIE"
+    },
+    "CA2": {
+        "descripcion": "CABLE ACERADO DE 5/16",
+        "unidad": "PIE"
+    },
+    "CA3": {
+        "descripcion": "CABLE ACERADO DE 3/8",
+        "unidad": "PIE"
+    },
+    "CA4": {
+        "descripcion": "CABLE DE ACERO GALVANIZADO 5/16, VER TABLA",
+        "unidad": "PIE"
+    },
+    "CAF1": {
+        "descripcion": "CABLE DE ALUMINIO FORRADO TW 1/0",
+        "unidad": "PIE"
+    },
+    "CAF12": {
+        "descripcion": "CABLE DE ALUMINIO FORRADO TW 2/0",
+        "unidad": "PIE"
+    },
+    "CAF2": {
+        "descripcion": "CABLE DE ALUMINIO FORRADO TW 3/0",
+        "unidad": "PIE"
+    },
+    "CAF3": {
+        "descripcion": "CABLE DE ALUMINIO FORRADO TW 266.8",
+        "unidad": "PIE"
+    },
+    "CAF4": {
+        "descripcion": "CABLE DE ALUMINIO FORRADO TW #2",
+        "unidad": "PIE"
+    },
+    "CAD1": {
+        "descripcion": "CABLE DE ALUMINIO ACSR #2",
+        "unidad": "PIE"
+    },
+    "CAD2": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 1/0",
+        "unidad": "PIE"
+    },
+    "CAD3": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 2/0",
+        "unidad": "PIE"
+    },
+    "CAD4": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 3/0",
+        "unidad": "PIE"
+    },
+    "CAD5": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 4/0",
+        "unidad": "PIE"
+    },
+    "CAD6": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 266.8",
+        "unidad": "PIE"
+    },
+    "CAD7": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 336.4",
+        "unidad": "PIE"
+    },
+    "CAD8": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 477",
+        "unidad": "PIE"
+    },
+    "CAD9": {
+        "descripcion": "CABLE DE ALUMINIO ACSR 556.",
+        "unidad": "PIE"
+    },
+    "CBC": {
+        "descripcion": "ALAMBRE BIMETALICO COPPERWELD NO.6 TEMPLADO",
+        "unidad": "PIE"
+    },
+    "CAC1": {
+        "descripcion": "CABLE DE COBRE FORRADO #14",
+        "unidad": "PIE"
+    },
+    "CAC2": {
+        "descripcion": "CABLE DE COBRE FORRADO 1/0",
+        "unidad": "PIE"
+    },
+    "CAC3": {
+        "descripcion": "CABLE DE COBRE FORRADO 3/0",
+        "unidad": "PIE"
+    },
+    "CAC4": {
+        "descripcion": "CABLE DE COBRE FORRADO 4/0",
+        "unidad": "PIE"
+    },
+    "CAC5": {
+        "descripcion": "CABLE DE COBRE NO.6 SOLIDO",
+        "unidad": "PIE"
+    },
+    "CT1": {
+        "descripcion": "CABLE TRIPLEX DE ALUMINIO 1/0",
+        "unidad": "PIE"
+    },
+    "CT2": {
+        "descripcion": "CABLE TRIPLEX DE ALUMINIO #2",
+        "unidad": "PIE"
+    },
+    "CT3": {
+        "descripcion": "CABLE TRIPLEX DE ALUMINIO #6",
+        "unidad": "PIE"
+    },
+    "CAM": {
+        "descripcion": "CAMISA DE HIERRO GALVANIZADO PARA TUBO Ф 4\"",
+        "unidad": "UNI"
+    },
+    "CAP": {
+        "descripcion": "CONTROL PARA ALUMBRADO PUBLICO 32 AMP., 65 AMP., 100 AMP.",
+        "unidad": "UNI"
+    },
+    "CF": {
+        "descripcion": "FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "CIA": {
+        "descripcion": "CINTA AISLANTE",
+        "unidad": "UNI"
+    },
+    "CCC": {
+        "descripcion": "CONECTOR DE COMPRESIÓN DE COBRE YG C6C6",
+        "unidad": "UNI"
+    },
+    "CC0": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 4A4",
+        "unidad": "UNI"
+    },
+    "CC1": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 2-2",
+        "unidad": "UNI"
+    },
+    "CC2": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 25A25 (1/0 -1/0)",
+        "unidad": "UNI"
+    },
+    "CC3": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 25A2 (1/0 -2)",
+        "unidad": "UNI"
+    },
+    "CC4": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 28A2 (3/0 - 2)",
+        "unidad": "UNI"
+    },
+    "CC5": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 28A25 (3/0 - 1/0)",
+        "unidad": "UNI"
+    },
+    "CC6": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YC 28A28 (3/0 - 3/0)",
+        "unidad": "UNI"
+    },
+    "CC7": {
+        "descripcion": "CONECTOR DE COMPRESIÓN KDR05 (266.8 - 3/0)",
+        "unidad": "UNI"
+    },
+    "CC8": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 33R28R (266.8 - 2/0)",
+        "unidad": "UNI"
+    },
+    "CC9": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 33R26U (266.8 - 1/0)",
+        "unidad": "UNI"
+    },
+    "CC10": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 33R28R (266.8 - 3/0)",
+        "unidad": "UNI"
+    },
+    "CC11": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 26R8U",
+        "unidad": "UNI"
+    },
+    "CC12": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 33R33R (>= 266.8)",
+        "unidad": "UNI"
+    },
+    "CC13": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YHN-525 (4/0 - 477)",
+        "unidad": "UNI"
+    },
+    "CC14": {
+        "descripcion": "CONECTOR DE COMPRESIÓN YPC 40A40 (556.5 - 795)",
+        "unidad": "UNI"
+    },
+    "CCB1": {
+        "descripcion": "CONECTOR DE COMPRESIÓN BIMETÁLICO 6 - 6",
+        "unidad": "UNI"
+    },
+    "CCB3": {
+        "descripcion": "CONECTOR DE COMPRESIÓN BIMETÁLICO 1/0 - 6",
+        "unidad": "UNI"
+    },
+    "CCB4": {
+        "descripcion": "CONECTOR DE COMPRESIÓN BIMETÁLICO 2 - 4",
+        "unidad": "UNI"
+    },
+    "CCB5": {
+        "descripcion": "CONECTOR DE COMPRESIÓN BIMETÁLICO 3/0 - 6",
+        "unidad": "UNI"
+    },
+    "CCA": {
+        "descripcion": "CONECTOR PARA CABLE ACERADO",
+        "unidad": "UNI"
+    },
+    "CP1": {
+        "descripcion": "CONECTOR TERMINAL DE PIN CABLE 3/0",
+        "unidad": "UNI"
+    },
+    "CP2": {
+        "descripcion": "CONECTOR TERMINAL DE PIN CABLE 266.8",
+        "unidad": "UNI"
+    },
+    "CP3": {
+        "descripcion": "CONECTOR TERMINAL DE PIN CABLE 477",
+        "unidad": "UNI"
+    },
+    "CP4": {
+        "descripcion": "CONECTOR TERMINAL DE PIN CABLE 556.5",
+        "unidad": "UNI"
+    },
+    "CVA": {
+        "descripcion": "CONECTOR VARILLA DE ATERRIZAJE DE 5/8",
+        "unidad": "UNI"
+    },
+    "CCH1": {
+        "descripcion": "CONECTOR DE COMPRESIÓN DE ALUMINIO TIPO H, 4/0-477",
+        "unidad": "UNI"
+    },
+    "CCH2": {
+        "descripcion": "CONECTOR DE COMPRESIÓN DE ALUMINIO TIPO H, 266.8-477",
+        "unidad": "UNI"
+    },
+    "CCP1": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO PLANCHA, 3/0",
+        "unidad": "UNI"
+    },
+    "CCP2": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO PLANCHA, 266.8",
+        "unidad": "UNI"
+    },
+    "CCP3": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO PLANCHA, 477",
+        "unidad": "UNI"
+    },
+    "CCT1": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO T, 266",
+        "unidad": "UNI"
+    },
+    "CCT2": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO T, 477",
+        "unidad": "UNI"
+    },
+    "CCT3": {
+        "descripcion": "CONECTOR DE COMPRESIÓN TIPO T, 566",
+        "unidad": "UNI"
+    },
+    "CR1": {
+        "descripcion": "CRUCETE DE MADERA CURADA DE 4 X 5 X 48",
+        "unidad": "UNI"
+    },
+    "CR2": {
+        "descripcion": "CRUCETE DE MADERA CURADA DE 4 X 5 X 96",
+        "unidad": "UNI"
+    },
+    "CR3": {
+        "descripcion": "CRUCETE DE MADERA CURADA DE 4 X 5 X 96 VOLADIZO",
+        "unidad": "UNI"
+    },
+    "CR4": {
+        "descripcion": "CRUCETE DE MADERA CURADA DE 4 X 5 X 120",
+        "unidad": "UNI"
+    },
+    "CR5": {
+        "descripcion": "CRUCETE DE MADERA CURADA DE 5 X 6 X 240",
+        "unidad": "UNI"
+    },
+    "CN1": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP. NORMAL, 13.8 KV",
+        "unidad": "UNI"
+    },
+    "CN2": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP. NORMAL, 34.5 KV",
+        "unidad": "UNI"
+    },
+    "CN3": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE POLIMERO 100 AMP., 13.8 KV.",
+        "unidad": "UNI"
+    },
+    "CN4": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE POLIMERO 100 AMP., 34.5 KV.",
+        "unidad": "UNI"
+    },
+    "CRA1": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP., 13.8 KV, APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA12": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 200 AMP., 13.8 KV, APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA2": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 100 AMP., 34.5KV., APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA22": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE PORCELANA 200 AMP., 34.5KV., APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA3": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE POLIMERO 100 AMP., 13.8 KV., APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "CRA4": {
+        "descripcion": "CUCHILLA PORTAFUSIBLE DE POLIMERO 100 AMP., 34.5 KV., APERTURA BAJO CARGA",
+        "unidad": "UNI"
+    },
+    "EC1": {
+        "descripcion": "ESPIGA PARA CRUCETA DE MADERA PARA 13.8 KV",
+        "unidad": "UNI"
+    },
+    "EC2": {
+        "descripcion": "ESPIGA PARA CRUCETA DE MADERA PARA 34.5 KV",
+        "unidad": "UNI"
+    },
+    "EP1": {
+        "descripcion": "ESPIGA PUNTA DE POSTE TIPO RECTA PARA 13.8 KV",
+        "unidad": "UNI"
+    },
+    "EP2": {
+        "descripcion": "ESPIGA PUNTA DE POSTE TIPO RECTA PARA 34.5 KV",
+        "unidad": "UNI"
+    },
+    "EPC": {
+        "descripcion": "ESPIGA PUNTA DE POSTE TIPO ESCUADRA PARA 34.5 KV",
+        "unidad": "UNI"
+    },
+    "ET1": {
+        "descripcion": "ESTRIBO DE TORNILLO PARA CONEXIÓN LINEA VIVA (4 - 4/0)",
+        "unidad": "UNI"
+    },
+    "ET2": {
+        "descripcion": "ESTRIBO DE TORNILLO PARA CONEXIÓN LINEA VIVA (4/0 - 556)",
+        "unidad": "UNI"
+    },
+    "ET3": {
+        "descripcion": "ESTRIBO DE COMPRESION PARA CONEXIÓN LINEA VIVA (4 - 4/0)",
+        "unidad": "UNI"
+    },
+    "ET4": {
+        "descripcion": "ESTRIBO DE COMPRESION PARA CONEXIÓN LINEA VIVA (3/0 - 477)",
+        "unidad": "UNI"
+    },
+    "F": {
+        "descripcion": "FUSIBLE X Amp",
+        "unidad": "UNI"
+    },
+    "F1": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL (X) AMPS, TIPO SLOFAST",
+        "unidad": "UNI"
+    },
+    "F2": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE (X) AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F21": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 1  AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F22": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 2 AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F23": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 3 AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F25": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 5 AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F28": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 8 AMP. TIPO K",
+        "unidad": "UNI"
+    },
+     "F212": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 12 AMP. TIPO K",
+        "unidad": "UNI"
+    }, 
+     "F215": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE 15 AMP. TIPO K",
+        "unidad": "UNI"
+    },
+    "F3": {
+        "descripcion": "FUSIBLE CINTA UNIVERSAL DE (X) AMP. TIPO T",
+        "unidad": "UNI"
+    },
+    "GB": {
+        "descripcion": "GRAPA PARA LINEA VIVA #8-2/0",
+        "unidad": "UNI"
+    },
+    "GS1": {
+        "descripcion": "GRAPA DE SUSPENSIÓN PARA CONDUCTOR (1/0 - 477)",
+        "unidad": "UNI"
+    },
+    "GS2": {
+        "descripcion": "GRAPA DE SUSPENSIÓN PARA GUARDA,  1/4",
+        "unidad": "UNI"
+    },
+    "GC": {
+        "descripcion": "GRAPA GALVANIZADA DE 1-1/4\"",
+        "unidad": "UNI"
+    },
+    "GT1": {
+        "descripcion": "GRAPA TERMINAL TIPO ESCUADRA PARA CONDUCTOR (1/0 - 4/0)",
+        "unidad": "UNI"
+    },
+    "GT2": {
+        "descripcion": "GRAPA TERMINAL TIPO ESCUADRA PARA CONDUCTOR (3/0 - 556)",
+        "unidad": "UNI"
+    },
+    "GT3": {
+        "descripcion": "GRAPA TERMINAL TIPO RECTO CABLE DE GUARDA, 1/4",
+        "unidad": "UNI"
+    },
+    "GT4": {
+        "descripcion": "GRAPA TERMINAL TIPO RECTO PARA CONDUCTOR (1/0 - 4/0)",
+        "unidad": "UNI"
+    },
+    "GT5": {
+        "descripcion": "GRAPA TERMINAL TIPO RECTO PARA CONDUCTOR (266.8 -556 MCM)",
+        "unidad": "UNI"
+    },
+    "JP": {
+        "descripcion": "JUNTA DE EMPALME PARA PUENTES (JUMPER), TIPO YCS-R #2, 1/0, 3/0, 266.8, 336, 477, 556",
+        "unidad": "UNI"
+    },
+    "JE": {
+        "descripcion": "JUNTA DE EMPALME PARA TENSIÓN, TIPO YDS-RL #2, 1/0, 3/0, 266.8, 336, 477, 556",
+        "unidad": "UNI"
+    },
+    "JR": {
+        "descripcion": "JUNTA DE EMPALME PARA REPARACIÓN, TIPO YCU-R y YOU-R #2, 1/0, 3/0, 266.8, 336, 477, 556",
+        "unidad": "UNI"
+    },
+    "LS1": {
+        "descripcion": "LAMPARA DE SODIO DE 100 WATTS, COMPLETA CON FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "LS2": {
+        "descripcion": "LAMPARA DE SODIO DE 100 WATTS, COMPLETA SIN FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "LS3": {
+        "descripcion": "LAMPARA DE SODIO DE 250 WATTS, COMPLETA CON FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "LS4": {
+        "descripcion": "LAMPARA DE SODIO DE 250 WATTS, COMPLETA SIN FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "LS5": {
+        "descripcion": "LAMPARA DE SODIO DE 400 WATTS, COMPLETA CON FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "LS6": {
+        "descripcion": "LAMPARA DE SODIO DE 400 WATTS, COMPLETA SIN FOTOCELDA",
+        "unidad": "UNI"
+    },
+    "ME1": {
+        "descripcion": "MEDIDOR DE ENERGIA ELECTROMECANICO MONOFASICO",
+        "unidad": "UNI"
+    },
+    "PR1": {
+        "descripcion": "PARARRAYO DE PORCELANA DE 10 KV.",
+        "unidad": "UNI"
+    },
+    "PR2": {
+        "descripcion": "PARARRAYO DE PORCELANA DE 27 KV.",
+        "unidad": "UNI"
+    },
+    "PR3": {
+        "descripcion": "PARARRAYO DE POLIMERO PARA 10 KV IEEE C62.11",
+        "unidad": "UNI"
+    },
+    "PR4": {
+        "descripcion": "PARARRAYO DE POLIMERO PARA 27 KV IEEE C62.11",
+        "unidad": "UNI"
+    },
+    "PAI": {
+        "descripcion": "PERNO DE ACERO INOXIDABLE 1/2 X 2",
+        "unidad": "UNI"
+    },
+    "PC": {
+        "descripcion": "PERNO DE CARROCERIA DE 3/8 x 5",
+        "unidad": "UNI"
+    },
+    "PM1": {
+        "descripcion": "PERNO DE MAQUINA 8",
+        "unidad": "UNI"
+    },
+    "PM2": {
+        "descripcion": "PERNO DE MAQUINA 10",
+        "unidad": "UNI"
+    },
+    "PM3": {
+        "descripcion": "PERNO DE MAQUINA 12",
+        "unidad": "UNI"
+    },
+    "PM4": {
+        "descripcion": "PERNO DE MAQUINA 14",
+        "unidad": "UNI"
+    },
+    "PM5": {
+        "descripcion": "PERNO DE MAQUINA 16",
+        "unidad": "UNI"
+    },
+    "PM6": {
+        "descripcion": "PERNO DE MAQUINA 18",
+        "unidad": "UNI"
+    },
+    "PM7": {
+        "descripcion": "PERNO DE MAQUINA 20",
+        "unidad": "UNI"
+    },
+    "PM8": {
+        "descripcion": "PERNO DE MAQUINA 22",
+        "unidad": "UNI"
+    },
+    "PM9": {
+        "descripcion": "PERNO DE MAQUINA 24",
+        "unidad": "UNI"
+    },
+    "PO1": {
+        "descripcion": "PERNO RECTO DE OJO DE 5/8 X 12",
+        "unidad": "UNI"
+    },
+    "PO2": {
+        "descripcion": "PERNO RECTO DE OJO CON ESLABÓN DE 5/8 X 12",
+        "unidad": "UNI"
+    },
+    "PO3": {
+        "descripcion": "PERNO CURVO DE OJO CON GUARDACABO DE 5/8 X 10",
+        "unidad": "UNI"
+    },
+    "PO4": {
+        "descripcion": "PERNO CURVO DE OJO CON GUARDACABO DE 5/8 X 12",
+        "unidad": "UNI"
+    },
+    "PO5": {
+        "descripcion": "PERNO RECTO DE OJO CON GUARDACABO DE 5/8 X 12",
+        "unidad": "UNI"
+    },
+    "PRC1": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 12",
+        "unidad": "UNI"
+    },
+    "PRC2": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 14",
+        "unidad": "UNI"
+    },
+    "PRC3": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 16",
+        "unidad": "UNI"
+    },
+    "PRC4": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 18",
+        "unidad": "UNI"
+    },
+    "PRC5": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 20",
+        "unidad": "UNI"
+    },
+    "PRC6": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 22",
+        "unidad": "UNI"
+    },
+    "PRC7": {
+        "descripcion": "PERNO DE ROSCA CORRIDA 24",
+        "unidad": "UNI"
+    },
+    "PCT": {
+        "descripcion": "PERNO PARA CARCAZA DE TRANSFORMADOR (ATERRIZAJE DE CARCAZA DE TRANSFORMADOR)",
+        "unidad": "UNI"
+    },
+    "PLR1": {
+        "descripcion": "PLACA DE REFUERZO 3/16 X 4 X 5, 13/16",
+        "unidad": "UNI"
+    },
+    "PLR2": {
+        "descripcion": "PLACA DE REFUERZO 1/4 X 6 X 8, 15/16",
+        "unidad": "UNI"
+    },
+    "PLSC": {
+        "descripcion": "PLACA SEPARADORA DE CRUCETE 3/16 X 4 X 5, 13/16",
+        "unidad": "UNI"
+    },
+    "PA1": {
+        "descripcion": "PLATO DE ANCLAJE DE 16 X 16",
+        "unidad": "UNI"
+    },
+    "PA2": {
+        "descripcion": "PLATO DE ANCLAJE DE 20 X 20",
+        "unidad": "UNI"
+    },
+    "PLE": {
+        "descripcion": "PLATINA ESPACIADORA PARA CRUCETE MADERA 1/2 X 4 X 24",
+        "unidad": "UNI"
+    },
+    "PC30": {
+        "descripcion": "POSTE DE CONCRETO 30",
+        "unidad": "UNI"
+    },
+    "PC35": {
+        "descripcion": "POSTE DE CONCRETO 35",
+        "unidad": "UNI"
+    },
+    "PC40": {
+        "descripcion": "POSTE DE CONCRETO 40",
+        "unidad": "UNI"
+    },
+    "PC45": {
+        "descripcion": "POSTE DE CONCRETO 45",
+        "unidad": "UNI"
+    },
+    "PC50": {
+        "descripcion": "POSTE DE CONCRETO 50",
+        "unidad": "UNI"
+    },
+    "PC60": {
+        "descripcion": "POSTE DE CONCRETO 60",
+        "unidad": "UNI"
+    },
+    "PCA30": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 30",
+        "unidad": "UNI"
+    },
+    "PCA35": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 35",
+        "unidad": "UNI"
+    },
+    "PCA40": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 40",
+        "unidad": "UNI"
+    },
+    "PCA45": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 45",
+        "unidad": "UNI"
+    },
+    "PCA50": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 50",
+        "unidad": "UNI"
+    },
+    "PCA60": {
+        "descripcion": "POSTE DE CONCRETO AUTOSOPORTADO 60",
+        "unidad": "UNI"
+    },
+    "PM301": {
+        "descripcion": "POSTE DE MADERA CURADA DE 30 CLASE 6",
+        "unidad": "UNI"
+    },
+    "PM30": {
+        "descripcion": "POSTE DE MADERA CURADA 30",
+        "unidad": "UNI"
+    },
+    "PM35": {
+        "descripcion": "POSTE DE MADERA CURADA 35",
+        "unidad": "UNI"
+    },
+    "PM40": {
+        "descripcion": "POSTE DE MADERA CURADA 40",
+        "unidad": "UNI"
+    },
+    "PM45": {
+        "descripcion": "POSTE DE MADERA CURADA 45",
+        "unidad": "UNI"
+    },
+    "PME30": {
+        "descripcion": "POSTE DE METAL 30",
+        "unidad": "UNI"
+    },
+    "PME35": {
+        "descripcion": "POSTE DE METAL 35",
+        "unidad": "UNI"
+    },
+    "PME40": {
+        "descripcion": "POSTE DE METAL 40",
+        "unidad": "UNI"
+    },
+    "PME45": {
+        "descripcion": "POSTE DE METAL 45",
+        "unidad": "UNI"
+    },
+    "PME50": {
+        "descripcion": "POSTE DE METAL 50",
+        "unidad": "UNI"
+    },
+    "PME60": {
+        "descripcion": "POSTE DE METAL 60",
+        "unidad": "UNI"
+    },
+    "PMEA30": {
+        "descripcion": "POSTE DE METAL AUTOSOPORTADO 30",
+        "unidad": "UNI"
+    },
+    "PMEA35": {
+        "descripcion": "POSTE DE METAL AUTOSOPORTADO 35",
+        "unidad": "UNI"
+    },
+    "PMEA40": {
+        "descripcion": "POSTE DE METAL AUTOSOPORTADO 40",
+        "unidad": "UNI"
+    },
+    "PMEA45": {
+        "descripcion": "POSTE DE METAL AUTOSOPORTADO 45",
+        "unidad": "UNI"
+    },
+    "PAN": {
+        "descripcion": "PUNTAL ANGULAR DE 50, 1-3/4 X 1-3/4 X 3/16",
+        "unidad": "UNI"
+    },
+    "PAN1": {
+        "descripcion": "PUNTAL ANGULAR DE 60, 1-3/4 X 1-3/4 X 3/16",
+        "unidad": "UNI"
+    },
+    "SCT": {
+        "descripcion": "SEPARADOR PARA CABLE TRIPLEX No 1/0 (PARA TRES LINEAS)",
+        "unidad": "UNI"
+    },
+    "PMR": {
+        "descripcion": "PROTECTOR METALICO PARA RETENIDA",
+        "unidad": "UNI"
+    },
+    "PPR": {
+        "descripcion": "PROTECTOR PLASTICO PARA RETENIDA",
+        "unidad": "UNI"
+    },
+    "SMPT1": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE UN TRANSFORMADOR DE 15 A 50 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "SMPT2": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE DOS TRANSFORMADORES DE 15 A 50 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "SMPT3": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE TRES TRANSFORMADORES DE 15 A 50 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "SMPT4": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE UN TRANSFORMADOR DE 75 A 167 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "SMPT5": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE DOS TRANSFORMADORES DE 75 A 167 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "SMPT6": {
+        "descripcion": "SOPORTE METÁLICO PARA MONTAJE DE TRES TRANSFORMADORES DE 75 A 167 KVA, EN POSTE",
+        "unidad": "UNI"
+    },
+    "TP": {
+        "descripcion": "TIRANTE DE PLATINA DE, 1/4 X 1-1/4 X 30",
+        "unidad": "UNI"
+    },
+    "TG": {
+        "descripcion": "TORNILLO GOLOSO DE 1/2 X 4",
+        "unidad": "UNI"
+    },
+    "TR1": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 5 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR2": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 10 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR3": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 15 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR4": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 25 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR5": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 37.5 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR6": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 50 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR7": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 75 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR8": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 100 KVA 7.9/13.8KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR9": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 5 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR10": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 10 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR11": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 15 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR12": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 25 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR13": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 37.5 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR14": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 50 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR15": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 75 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TR16": {
+        "descripcion": "TRANSFORMADOR TIPO POSTE 100 KVA 19.9/34.5KV, 120/240V",
+        "unidad": "UNI"
+    },
+    "TGL1": {
+        "descripcion": "TUBO DE HIERRO GALVANIZADO DE 2 DIA. X 6",
+        "unidad": "UNI"
+    },
+    "TGL2": {
+        "descripcion": "TUBO DE HIERRO GALVANIZADO DE 4 DIA. X 20",
+        "unidad": "UNI"
+    },
+    "TGL22": {
+        "descripcion": "TUBO DE HIERRO GALVANIZADO DE 4PULG",
+        "unidad": "UNI"
+    },
+    "TO1": {
+        "descripcion": "TUERCA DE OJO DE 5/8",
+        "unidad": "UNI"
+    },
+    "TO2": {
+        "descripcion": "TUERCA DE OJO DE 5/8 CON GUARDACABO",
+        "unidad": "UNI"
+    },
+    "TO3": {
+        "descripcion": "TUERCA DE OJO CURVO DE 5/8 CON GUARDACABO",
+        "unidad": "UNI"
+    },
+    "VA1": {
+        "descripcion": "VARILLA DE ANCLAJE DE 5/8 X 6 CON GUARDACABO SENCILLO",
+        "unidad": "UNI"
+    },
+    "VA2": {
+        "descripcion": "VARILLA DE ANCLAJE DE 5/8 X 7 CON GUARDACABO SENCILLO",
+        "unidad": "UNI"
+    },
+    "VA3": {
+        "descripcion": "VARILLA DE ANCLAJE DE 5/8 X 7 CON GUARDACABO DOBLE",
+        "unidad": "UNI"
+    },
+    "VAP1": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE 2 ACSR",
+        "unidad": "UNI"
+    },
+    "VAP2": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE 1/0 ACSR",
+        "unidad": "UNI"
+    },
+    "VAP3": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE 3/0 ACSR",
+        "unidad": "UNI"
+    },
+    "VAP4": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE 266.8 MCM",
+        "unidad": "UNI"
+    },
+    "VAP5": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE 477 MCM Y 556.5 MCM",
+        "unidad": "UNI"
+    },
+    "VAP6": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE ACERADO 1/4",
+        "unidad": "UNI"
+    },
+    "VAP7": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE ACERO 5/16",
+        "unidad": "UNI"
+    },
+    "VAP8": {
+        "descripcion": "VARILLA DE ARMAR PREFORMADO PARA CABLE ACERADO 3/8",
+        "unidad": "UNI"
+    },
+    "VPT": {
+        "descripcion": "VARILLA GALVANIZADA PARA POLO A TIERRA 5/8 X 8",
+        "unidad": "UNI"
+    }
+}
